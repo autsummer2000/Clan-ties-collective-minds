@@ -1,0 +1,7 @@
+{
+  "sample_size": 816,
+  "province_count": 17,
+  "city_count": 816,
+  "bootstrap_iterations": 5000,
+  "random_seed": 8911
+}
